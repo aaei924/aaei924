@@ -13,3 +13,7 @@
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=fff)
+
+**CONTACT**<br>
+![DISCORD](https://img.shields.io/badge/DISCORD-8ea1e1?style=for-the-badge&logo=discord&logoColor=fff)
+PRASEOD-#8621
