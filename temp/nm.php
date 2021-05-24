@@ -5,7 +5,7 @@ ini_set("display_errors", 1);
 $text = '> I Quoted. 
 > ~~Lorem ipsum~~';
 $PW = new PlainWikiPage($text);
-$tk = [
+/*$tk = [
 	['name'=>'blockquote-start'],
     ['name'=>'new-line'],
     ['name'=>'blockquote-end']
@@ -16,8 +16,8 @@ $tk = [
 ["lastchanged"]=> 1620747394 }
 */
 $NM = new NamuMark($PW);
-//$tk = $NM->parse();
-//echo json_encode($tk);
+$tk = $NM->parse();
+echo json_encode($tk);
 var_dump($NM->toHTML($tk));
 
 class PlainWikiPage {
