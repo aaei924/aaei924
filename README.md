@@ -18,4 +18,6 @@
 **CONTACT**<br>
 ![DISCORD](https://img.shields.io/badge/DISCORD-8ea1e1?style=for-the-badge&logo=discord&logoColor=fff)
 
+[PressDo Community](https://discord.gg/Tdwsj9S2W5)
+
 PRASEOD-#8621
