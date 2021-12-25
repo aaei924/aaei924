@@ -18,6 +18,6 @@
 **CONTACT**<br>
 ![DISCORD](https://img.shields.io/badge/DISCORD-8ea1e1?style=for-the-badge&logo=discord&logoColor=fff)
 
-[PressDo Community](https://discord.gg/Tdwsj9S2W5)
+개인 프로젝트 및 위키 엔진 커뮤니티 [PressDo Community](https://discord.gg/Tdwsj9S2W5)
 
 PRASEOD-#8621
