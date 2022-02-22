@@ -8,7 +8,6 @@
 **USED PROGRAMING LANGUAGES**<br>
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/-javascript-c2ad07?style=for-the-badge&logo=javascript&logoColor=fff)
-![Node.js](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=fff)
 
 **ELSE**<br>
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
