@@ -5,7 +5,7 @@
 
 [Personal Homepage](https://prws.kr)
 
-**USED PROGRAMING LANGUAGES**<br>
+**I USE**<br>
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/-javascript-c2ad07?style=for-the-badge&logo=javascript&logoColor=fff)
 
